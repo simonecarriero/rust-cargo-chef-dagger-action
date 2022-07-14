@@ -1,4 +1,4 @@
-# Rust cargo-chef dagger action
+# Rust [cargo-chef](https://github.com/LukeMathWalker/cargo-chef) [dagger](https://github.com/dagger/dagger) action
 
 ## Install
 ```
