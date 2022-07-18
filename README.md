@@ -102,7 +102,7 @@ As you can see, there's no reference to the first two stages but just the runtim
 
 ## Install
 ```
-dagger project update github.com/simonecarriero/rust-cargo-chef-dagger-action@v0.0.1
+dagger project update github.com/simonecarriero/rust-cargo-chef-dagger-action@v0.0.2
 ```
 
 ## Usage
